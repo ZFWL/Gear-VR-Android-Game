@@ -8,5 +8,7 @@ An important of this project was the integration of Perceptions Neuron Axis suit
 ![perceptionneuron](https://user-images.githubusercontent.com/18353476/27672571-b08bed9a-5c50-11e7-9daf-cff544e88a36.jpg)
 
 #Links for Hardware used below:
+
 Samsung Gear VR Headset https://www.oculus.com/gear-vr/
+
 Perception Neuron Motion Capture Suit  https://neuronmocap.com/products-fullwidth?field_category_value=PN

@@ -1,6 +1,6 @@
 # VR Sword Fighting Game
 
-This game(made in Unity) you're a human-like Android on a quest through a procedurally generated Apocalyptic City fighting enemies with a sword that looks very similar to a lightsaber. This game runs on the Samsung Gear VR headset and Perception Neuron Motion Capture Suit. This project was a group effort made by 22 computer science students at the California State University, Monterey Bay in the CST 495 Special Topics class. 
+This game(made in Unity) you're a human-like Android on a quest through a procedurally generated Apocalyptic City fighting enemies with a sword that looks very similar to a lightsaber. This game runs on the Samsung Gear VR headset and Perception Neuron Motion Capture Suit. This project was a group effort made by 22 computer science students along with 4 game design students at the California State University, Monterey Bay in the CST 495 Special Topics class. 
 
 An important part of this project was the integration of the Perception Neuron Motion Capture suit. It was received in January 2016 when the suit was still in the Beta development phase.
 

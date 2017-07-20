@@ -6,6 +6,8 @@ An important part of this project was the integration of the Perception Neuron M
 
 ![axis neuron](https://user-images.githubusercontent.com/18353476/27672565-a9dd312a-5c50-11e7-974d-5609f9cd3b0c.png)
 ![perceptionneuron](https://user-images.githubusercontent.com/18353476/27672571-b08bed9a-5c50-11e7-9daf-cff544e88a36.jpg)
+![gear-vr](https://user-images.githubusercontent.com/18353476/28398251-27e2fe5e-6cbb-11e7-9d5a-7ecd3d154f4f.jpg)
+
 
 #Links for Hardware used below:
 

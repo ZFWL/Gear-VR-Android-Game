@@ -9,7 +9,7 @@ An important part of this project was the integration of the Perception Neuron M
 ![gear-vr](https://user-images.githubusercontent.com/18353476/28398251-27e2fe5e-6cbb-11e7-9d5a-7ecd3d154f4f.jpg)
 
 
-#Links for Hardware used below:
+# Links for Hardware used below:
 
 Samsung Gear VR Headset https://www.oculus.com/gear-vr/
 

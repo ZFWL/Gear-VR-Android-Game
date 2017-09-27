@@ -6,10 +6,14 @@ This game(made in Unity) you're a human-like Android on a quest through a proced
 # City and Building Design
 ![building textures closeup](https://user-images.githubusercontent.com/18353476/28497537-b679d07c-6f3e-11e7-9dca-4825d375939a.PNG)
 
-# Upcoming Level Design
-A new level is coming(Late 2017/Early 2018). It will take you out of the City limits and onto an abandoned Farm where you will face new enemies and obstacles to continue your quest.
+# Upcoming Levels Design
+A new level is coming(Late 2017/Early 2018). It will take you out of the City limits and onto an abandoned Farm where you will face new enemies and obstacles to continue your quest. Working on an Alien Planet map that has an abandoned military base.
 
+Farm Level Map
 ![the farm](https://user-images.githubusercontent.com/18353476/30253492-42d3a5b6-963b-11e7-879a-6bc96ce6e624.png)
+
+Space Level Map
+![space map](https://user-images.githubusercontent.com/18353476/30890957-ef755c32-a2e4-11e7-8168-8bf67e25bd0e.gif)
 
 # Neuron Motion Capture Suit
 An important part of this project was the integration of the Perception Neuron Motion Capture suit. It was received in January 2016 when the suit was still in the Beta development phase.

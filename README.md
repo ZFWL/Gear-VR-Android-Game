@@ -18,11 +18,18 @@ Space Level Map
 # Neuron Motion Capture Suit
 An important part of this project was the integration of the Perception Neuron Motion Capture suit. It was received in January 2016 when the suit was still in the Beta development phase.
 
-![axis neuron](https://user-images.githubusercontent.com/18353476/27672565-a9dd312a-5c50-11e7-974d-5609f9cd3b0c.png)
-![perceptionneuron](https://user-images.githubusercontent.com/18353476/27672571-b08bed9a-5c50-11e7-9daf-cff544e88a36.jpg)
+<p align="center">
+  <img alt="[axis neuron" src="https://user-images.githubusercontent.com/18353476/27672565-a9dd312a-5c50-11e7-974d-5609f9cd3b0c.png">
+</p>
+
+<p align="center">
+  <img alt="[perceptionneuron" src="https://user-images.githubusercontent.com/18353476/27672571-b08bed9a-5c50-11e7-9daf-cff544e88a36.jpg">
+</p>
 
 # Samsung Gear VR Headset
 ![gear-vr](https://user-images.githubusercontent.com/18353476/28398251-27e2fe5e-6cbb-11e7-9d5a-7ecd3d154f4f.jpg)
+
+
 
 # Vulkan Support 
 Vulkan is a new generation graphics and compute API that provides high-efficiency, cross-platform access to modern GPUs in both PCs and on mobile platforms. The Android Nougat version 7.0 from Google brings official support for the Vulkan API.The main benefit of Vulkan over older mobile rendering APIs such as OpenGL ES 3.x is speed. Vulkan is designed to take advantage of multiple CPU cores by allowing the application to build command lists in multiple threads in parallel. This allows the application to take advantage of all of the CPU cores on the device, improving performance.

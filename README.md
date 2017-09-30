@@ -27,9 +27,24 @@ An important part of this project was the integration of the Perception Neuron M
 </p>
 
 # Samsung Gear VR Headset
+[Mobile Development with Unity and Unreal](https://developer.oculus.com/documentation/mobilesdk/latest/concepts/mobile-game-engine/#mobile-game-engine)
+
+[Preparing for Mobile Development](https://developer.oculus.com/documentation/unity/latest/concepts/unity-mobileprep/)
+
+[Gear VR Device Setup](https://developer.oculus.com/documentation/mobilesdk/latest/concepts/mobile-device-setup/)
+
+[Building Gear VR apps in Unity](https://developer.oculus.com/documentation/unity/latest/concepts/unity-build-android/#unity-build-android-store)
 ![gear-vr](https://user-images.githubusercontent.com/18353476/28398251-27e2fe5e-6cbb-11e7-9d5a-7ecd3d154f4f.jpg)
 
 
+# Getting Started with Android NDK
+The [Native Development Kit (NDK)](https://developer.android.com/ndk/guides/index.html) is a set of tools that allows you to use C and C++ code with Android, and provides platform libraries you can use to manage native activities and access physical device components, such as sensors and touch input. The NDK may not be appropriate for most novice Android programmers who need to use only Java code and framework APIs to develop their apps. However, the NDK can be useful for cases in which you need to do one or more of the following:
+
+  Squeeze extra performance out of a device to achieve low latency or run computationally intensive applications, such as games or  physics simulations.
+
+  Reuse your own or other developers' C or C++ libraries.
+
+Using [Android Studio](https://developer.android.com/studio/index.html) 2.2 and higher, you can use the NDK to compile C and C++ code into a native library and package it into your APK using Gradle, the IDE's integrated build system. Your Java code can then call functions in your native library through the Java Native Interface (JNI) framework. To learn more about Gradle and the Android build system, read Configure Your Build.
 
 # Vulkan Support 
 Vulkan is a new generation graphics and compute API that provides high-efficiency, cross-platform access to modern GPUs in both PCs and on mobile platforms. The Android Nougat version 7.0 from Google brings official support for the Vulkan API.The main benefit of Vulkan over older mobile rendering APIs such as OpenGL ES 3.x is speed. Vulkan is designed to take advantage of multiple CPU cores by allowing the application to build command lists in multiple threads in parallel. This allows the application to take advantage of all of the CPU cores on the device, improving performance.

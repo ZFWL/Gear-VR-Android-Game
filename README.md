@@ -12,8 +12,18 @@ A new level is coming(Late 2017/Early 2018). It will take you out of the City li
 Farm Level Map
 ![the farm](https://user-images.githubusercontent.com/18353476/30253492-42d3a5b6-963b-11e7-879a-6bc96ce6e624.png)
 
+Evil Scarecrow enemy for Farm Level.
+![scarecrow](https://user-images.githubusercontent.com/18353476/31050828-e4c8bb92-a60b-11e7-8d97-320a996e4fba.PNG)
+
 Space Level Map
 ![space map](https://user-images.githubusercontent.com/18353476/30890957-ef755c32-a2e4-11e7-8168-8bf67e25bd0e.gif)
+
+Space Robot Soldier Enemies for Space level.
+![robot soldiers](https://user-images.githubusercontent.com/18353476/31050830-e62d15be-a60b-11e7-8b64-8254a73e9936.gif)
+
+Underground Dungeon Level Map.
+![dungeon map](https://user-images.githubusercontent.com/18353476/31050848-8e21b7de-a60c-11e7-8a1b-213af0bf1f11.gif)
+
 
 # Neuron Motion Capture Suit
 An important part of this project was the integration of the Perception Neuron Motion Capture suit. It was received in January 2016 when the suit was still in the Beta development phase.

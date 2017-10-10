@@ -24,6 +24,8 @@ Space Robot Soldier Enemies for Space level.
 Underground Dungeon Level Map.
 ![dungeon map](https://user-images.githubusercontent.com/18353476/31050848-8e21b7de-a60c-11e7-8a1b-213af0bf1f11.gif)
 
+Beware of the Dungeon Crawler lurking in the Shadows.
+![dungeon crawler](https://user-images.githubusercontent.com/18353476/31381435-5b4546b4-ad69-11e7-8576-157888a1d512.gif)
 
 # Neuron Motion Capture Suit
 An important part of this project was the integration of the Perception Neuron Motion Capture suit. It was received in January 2016 when the suit was still in the Beta development phase.

@@ -1,7 +1,6 @@
 # VR Sword Fighting Game
 
-This game(made in Unity) you're a human-like Android on a quest through a procedurally generated Apocalyptic City fighting enemies with a sword that looks very similar to a lightsaber. This game runs on the Samsung Gear VR headset and Perception Neuron Motion Capture Suit. This project was a group effort made by 22 computer science students along with 4 game design students at the California State University, Monterey Bay in the CST 495 Special Topics class. 
-![unity](https://user-images.githubusercontent.com/18353476/29190917-b09be474-7dd0-11e7-9ada-b68d15f26d54.gif)
+This game(made in Unity3D) you're a human-like Android on a quest through a procedurally generated Apocalyptic City fighting enemies with a sword that looks very similar to a lightsaber. This game runs on the Samsung Gear VR headset and Perception Neuron Motion Capture Suit. This project was a group effort made by 22 computer science students along with 4 game design students at the California State University Monterey Bay in the CST 495 Special Topics class. 
 
 # City and Building Design
 ![building textures closeup](https://user-images.githubusercontent.com/18353476/28497537-b679d07c-6f3e-11e7-9dca-4825d375939a.PNG)
@@ -11,6 +10,9 @@ A new level is coming(Late 2017/Early 2018). It will take you out of the City li
 
 Farm Level Map
 ![the farm](https://user-images.githubusercontent.com/18353476/30253492-42d3a5b6-963b-11e7-879a-6bc96ce6e624.png)
+
+Farm Level Render in Samsung Gear VR
+![samsung-gear-vr](https://user-images.githubusercontent.com/18353476/33344251-31a313cc-d43d-11e7-85fd-ad685b1bfea3.jpg)
 
 Evil Scarecrow enemy for Farm Level.
 ![scarecrow](https://user-images.githubusercontent.com/18353476/31050828-e4c8bb92-a60b-11e7-8d97-320a996e4fba.PNG)

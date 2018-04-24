@@ -50,6 +50,12 @@ An important part of this project was the integration of the Perception Neuron M
 [Building Gear VR apps in Unity](https://developer.oculus.com/documentation/unity/latest/concepts/unity-build-android/#unity-build-android-store)
 ![gear-vr](https://user-images.githubusercontent.com/18353476/28398251-27e2fe5e-6cbb-11e7-9d5a-7ecd3d154f4f.jpg)
 
+# Oculus Rift Headset Support
+[Oculus Platform SDK](https://developer.oculus.com/downloads/package/oculus-platform-sdk/)
+
+[Unity for Oculus](https://docs.unity3d.com/Manual/VRDevices-Oculus.html)
+
+![oculus](https://user-images.githubusercontent.com/18353476/38968671-5f74dcc2-4341-11e8-9f4e-37a31a6a205d.png)
 
 # Getting Started with Android NDK
 The [Native Development Kit (NDK)](https://developer.android.com/ndk/guides/index.html) is a set of tools that allows you to use C and C++ code with Android, and provides platform libraries you can use to manage native activities and access physical device components, such as sensors and touch input. The NDK may not be appropriate for most novice Android programmers who need to use only Java code and framework APIs to develop their apps. However, the NDK can be useful for cases in which you need to do one or more of the following:
@@ -61,13 +67,15 @@ The [Native Development Kit (NDK)](https://developer.android.com/ndk/guides/inde
 Using [Android Studio](https://developer.android.com/studio/index.html) 2.2 and higher, you can use the NDK to compile C and C++ code into a native library and package it into your APK using Gradle, the IDE's integrated build system. Your Java code can then call functions in your native library through the Java Native Interface (JNI) framework. To learn more about Gradle and the Android build system, read Configure Your Build.
 
 # Vulkan Support 
-Vulkan is a new generation graphics and compute API that provides high-efficiency, cross-platform access to modern GPUs in both PCs and on mobile platforms. The Android Nougat version 7.0 from Google brings official support for the Vulkan API.The main benefit of Vulkan over older mobile rendering APIs such as OpenGL ES 3.x is speed. Vulkan is designed to take advantage of multiple CPU cores by allowing the application to build command lists in multiple threads in parallel. This allows the application to take advantage of all of the CPU cores on the device, improving performance.
+[Vulkan is a new generation graphics and compute API](https://www.lunarg.com/vulkan-sdk/) that provides high-efficiency, cross-platform access to modern GPUs in both PCs and on mobile platforms. The Android Nougat version 7.0 from Google brings official support for the Vulkan API.The main benefit of Vulkan over older mobile rendering APIs such as OpenGL ES 3.x is speed. Vulkan is designed to take advantage of multiple CPU cores by allowing the application to build command lists in multiple threads in parallel. This allows the application to take advantage of all of the CPU cores on the device, improving performance.
 
 To enable Vulkan support, open “Player Settings”, go to the “Other Settings” pane and clear the “Auto Graphics API” checkbox. You are presented with an ordered list of graphics APIs to choose from. If Vulkan is not on that list, click the ‘+’ sign at the bottom of the list to add it. Then drag Vulkan to be the first item on the list so that it’ll be used whenever supported, and you’re done! All your existing shaders will get translated to Vulkan SPIR-V.
 ![vulkan](https://user-images.githubusercontent.com/18353476/28993201-7543d586-7965-11e7-8e9c-f93b7079e2bf.PNG)
 
 # Links for Hardware used below:
 
-Samsung Gear VR Headset https://www.oculus.com/gear-vr/
+[Samsung Gear VR Headset](https://www.oculus.com/gear-vr/)
 
-Perception Neuron Motion Capture Suit  https://neuronmocap.com/products-fullwidth?field_category_value=PN
+[Oculus Rift Headset](https://www.oculus.com/rift/) 
+
+[Perception Neuron Motion Capture Suit](https://neuronmocap.com/products-fullwidth?field_category_value=PN)

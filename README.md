@@ -57,6 +57,19 @@ An important part of this project was the integration of the Perception Neuron M
 
 ![oculus](https://user-images.githubusercontent.com/18353476/38968671-5f74dcc2-4341-11e8-9f4e-37a31a6a205d.png)
 
+# HTC Vive Headset Support
+[Getting Started with OpenVR in Unity](https://docs.unity3d.com/Manual/VRDevices-OpenVR.html)
+
+[SteamVR Plugin](https://assetstore.unity.com/packages/templates/systems/steamvr-plugin-32647)
+
+[Vive Studios](https://developer.vive.com/us/vive-studios/)
+
+[Vive Tracker](https://developer.vive.com/us/vive-tracker-for-developer/)
+
+[Vive Community](https://community.viveport.com/)
+
+![htc-vive](https://user-images.githubusercontent.com/18353476/39963101-3a2e5f36-5617-11e8-96d9-cfdc5e1dcafe.png)
+
 # Google VR Daydream Headset Support
 
 [Quickstart for Google VR SDK for Unity with Android](https://developers.google.com/vr/develop/unity/get-started-android)

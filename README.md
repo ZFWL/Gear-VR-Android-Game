@@ -53,6 +53,10 @@ An important part of this project was the integration of the Perception Neuron M
 # Oculus Rift Headset Support
 [Oculus Platform SDK](https://developer.oculus.com/downloads/package/oculus-platform-sdk/)
 
+[Oculus Go](https://www.oculus.com/go/)
+
+[Oculus Development Center](https://developer.oculus.com/unity/)
+
 [Unity for Oculus](https://docs.unity3d.com/Manual/VRDevices-Oculus.html)
 
 ![oculus](https://user-images.githubusercontent.com/18353476/38968671-5f74dcc2-4341-11e8-9f4e-37a31a6a205d.png)

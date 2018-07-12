@@ -84,6 +84,12 @@ An important part of this project was the integration of the Perception Neuron M
 
 ![dayream](https://user-images.githubusercontent.com/18353476/39077312-d340360e-44b5-11e8-81e8-a96bb163ad8f.png)
 
+# Adding Firebase to your Unity Project
+
+[using the Firebase SDK with your Unity Project](https://firebase.google.com/docs/unity/setup)
+
+[Firebase Games Page](https://firebase.google.com/games/)
+
 
 # Getting Started with Android NDK
 The [Native Development Kit (NDK)](https://developer.android.com/ndk/guides/index.html) is a set of tools that allows you to use C and C++ code with Android, and provides platform libraries you can use to manage native activities and access physical device components, such as sensors and touch input. The NDK may not be appropriate for most novice Android programmers who need to use only Java code and framework APIs to develop their apps. However, the NDK can be useful for cases in which you need to do one or more of the following:

@@ -85,10 +85,11 @@ An important part of this project was the integration of the Perception Neuron M
 ![dayream](https://user-images.githubusercontent.com/18353476/39077312-d340360e-44b5-11e8-81e8-a96bb163ad8f.png)
 
 # Adding Firebase to your Unity Project
-
-[using the Firebase SDK with your Unity Project](https://firebase.google.com/docs/unity/setup)
-
 [Firebase Games Page](https://firebase.google.com/games/)
+
+[Using the Firebase SDK with your Unity Project](https://firebase.google.com/docs/unity/setup)
+
+![firebase](https://user-images.githubusercontent.com/18353476/43926774-30bd5f2e-9be0-11e8-82e0-4238ce3dd895.png)
 
 
 # Getting Started with Android NDK

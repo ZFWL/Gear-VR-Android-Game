@@ -6,7 +6,7 @@ This game(made in Unity3D) you're a human-like Android on a quest through a proc
 ![building textures closeup](https://user-images.githubusercontent.com/18353476/28497537-b679d07c-6f3e-11e7-9dca-4825d375939a.PNG)
 
 # Upcoming Levels Design
-A new level is coming(Late 2017/Early 2018). It will take you out of the City limits and onto an abandoned Farm where you will face new enemies and obstacles to continue your quest. Working on an Alien Planet map that has an abandoned military base.
+A new level is coming. It will take you out of the City limits and onto an abandoned Farm where you will face new enemies and obstacles to continue your quest. Working on an Alien Planet map that has an abandoned military base.
 
 Farm Level Map
 ![the farm](https://user-images.githubusercontent.com/18353476/30253492-42d3a5b6-963b-11e7-879a-6bc96ce6e624.png)
@@ -30,7 +30,7 @@ Beware of the Dungeon Crawler lurking in the Shadows.
 ![dungeon crawler](https://user-images.githubusercontent.com/18353476/31381435-5b4546b4-ad69-11e7-8576-157888a1d512.gif)
 
 # Neuron Motion Capture Suit
-An important part of this project was the integration of the Perception Neuron Motion Capture suit. It was received in January 2016 when the suit was still in the Beta development phase.
+An important part of this project was the integration of the [Perception Neuron Motion Capture Suit](https://neuronmocap.com/products-fullwidth?field_category_value=PN). It was received in January 2016 when the suit was still in the Beta development phase.
 
 <p align="center">
   <img alt="[axis neuron" src="https://user-images.githubusercontent.com/18353476/27672565-a9dd312a-5c50-11e7-974d-5609f9cd3b0c.png">
@@ -107,11 +107,3 @@ Using [Android Studio](https://developer.android.com/studio/index.html) 2.2 and 
 To enable Vulkan support, open “Player Settings”, go to the “Other Settings” pane and clear the “Auto Graphics API” checkbox. You are presented with an ordered list of graphics APIs to choose from. If Vulkan is not on that list, click the ‘+’ sign at the bottom of the list to add it. Then drag Vulkan to be the first item on the list so that it’ll be used whenever supported, and you’re done! All your existing shaders will get translated to Vulkan SPIR-V.
 ![vulkan](https://user-images.githubusercontent.com/18353476/28993201-7543d586-7965-11e7-8e9c-f93b7079e2bf.PNG)
 ![vulkan-api](https://user-images.githubusercontent.com/18353476/38407514-a6187e80-392e-11e8-8c8c-802782a39d0c.png)
-
-# Links for Hardware used below:
-
-[Samsung Gear VR Headset](https://www.oculus.com/gear-vr/)
-
-[Oculus Rift Headset](https://www.oculus.com/rift/) 
-
-[Perception Neuron Motion Capture Suit](https://neuronmocap.com/products-fullwidth?field_category_value=PN)
